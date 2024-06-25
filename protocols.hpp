@@ -8,7 +8,6 @@ enum class SCADAProtocol {
     DNP3,
     OPCUA,
     IEC60870,
-    CIP,
     ICCP,
     MQTT,
     SNMP,
